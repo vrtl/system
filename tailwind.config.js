@@ -1,10 +1,14 @@
 module.exports = {
     content: [
-        "./src/**/*.rs",
+        "./crates/**/*.rs",
         "./index.html"
     ],
     theme: {
-        extend: {},
+        extend: {
+            fontFamily: {
+                'lato': ['"Lato"', 'sans-serif'],
+            },
+        },
     },
     plugins: [],
 }
