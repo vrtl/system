@@ -1,0 +1,9 @@
+trunk-version = "*"
+
+[build]
+target = "index.html"
+release = false
+
+[serve]
+address = "127.0.0.1"
+port = 8080
