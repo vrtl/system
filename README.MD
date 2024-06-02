@@ -3,6 +3,7 @@
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/vrtl/system/build.yml?style=flat&logo=github&label=build)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/vrtl/system/clippy.yml?style=flat&logo=github&label=lints)
 ![Codecov](https://img.shields.io/codecov/c/github/vrtl/template?token=5WvQyfAGjE&style=flat&logo=codecov)
+[![dependency status](https://deps.rs/repo/github/vrtl/system/status.svg)](https://deps.rs/repo/github/vrtl/system)
 ![GitHub License](https://img.shields.io/github/license/vrtl/system?style=flat&logo=apache)
 
 ## Development
