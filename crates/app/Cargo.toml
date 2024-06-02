@@ -6,6 +6,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-console_error_panic_hook = { workspace = true }
-leptos = { workspace = true }
-wasm-bindgen = { workspace = true }
+console_error_panic_hook = "0.1"
+leptos = { version = "0.6", features = ["csr", "nightly"] }
+wasm-bindgen = "0.2"
